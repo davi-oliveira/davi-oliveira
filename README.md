@@ -3,7 +3,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Ciências da Computação** na <a href="https://www.cruzeirodosul.edu.br/">Cruzeiro do Sul</a>.
+- 🎓 &nbsp; Estudando **Ciência da Computação** na <a href="https://www.cruzeirodosul.edu.br/">Cruzeiro do Sul</a>.
 - 💼 &nbsp; Trabalhando como **Auxiliar de Informática** no <strong>Exército Brasileiro</strong></a>
 - 🌱 &nbsp; Aprendendo mais sobre **DevOps**.
 
@@ -22,6 +22,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://i.imgur.com/L0tNak0.png" alt="CSS"/></code>
 
 ----
 ### 💻 Tecnologias
