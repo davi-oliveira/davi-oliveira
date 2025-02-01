@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Ciência da Computação** na <a href="https://www.udf.edu.br">UDF</a>.
-- 💼 &nbsp; Trabalhando como **Auxiliar de Informática** no <strong>Exército Brasileiro</strong></a>
+- 💼 &nbsp; Trabalhando como **Auxiliar de Gerência** no <strong>Exército Brasileiro</strong></a>
 - 🌱 &nbsp; Aprendendo mais sobre **DevOps**.
 
 ---
